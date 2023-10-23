@@ -18,7 +18,8 @@
 namespace dear {
 namespace apd {
 
-using ara::com::internal::InstanceId;
+//using ara::com::internal::InstanceId;
+using ara::com::InstanceIdentifier;
 using ara::com::internal::vsomeip::common::Deserializer;
 using ara::com::internal::vsomeip::common::Unmarshaller;
 using ara::core::Future;
